@@ -42,6 +42,7 @@ INSERT INTO pais (id, Pais) values (null, "Ecuador"), (null, "Colombia"), (null,
 
 <hr>
 <h3>Video del funcionamiento de la aplicación</h3>
+<hr>
 
 https://user-images.githubusercontent.com/96399138/220817629-8014e426-e0b4-4a5f-a509-197c43cd5796.mp4
 
